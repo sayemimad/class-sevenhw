@@ -1,0 +1,231 @@
+.header{
+  text-align: center;
+  min-height: 80px;
+  background-color: yellowgreen;
+  font-size: 20px; 
+ 
+}
+
+
+.wrapper{
+  overflow: hidden;
+}
+.content{
+  text-align: center;
+  min-height: 150px;
+  background-color: lightblue;
+  width: 60%;
+  float: left;
+}
+.blog{
+  text-align: center;
+  min-height: 150px;
+  background-color: red;
+  width: 40%;
+  float: right;
+}
+
+.container{
+  overflow: hidden;
+}
+.single{
+min-height: 150px;
+width: 32.66%;
+float: left;
+border:5px solid brown ;
+text-align: center;
+}
+
+.yellow{
+
+  background-color: yellow;
+
+}
+
+.green{
+
+  background-color: green;
+}
+
+.chocolate{
+  background-color: chocolate;
+}
+
+
+
+
+
+
+
+
+
+
+ .footer{
+
+  min-height: 150px;
+  background-color: cadetblue;
+  text-align: center ;
+
+ }
+
+.link{
+border: 20px solid black ;
+float: left;
+overflow: hidden;
+display: block;
+float: left;
+margin: 30px;
+text-align: white;
+
+}
+
+
+.header2{
+background-color: violet;
+min-height: 200px;
+text-align: center ;
+}
+
+.wrapper2{
+  overflow: hidden;
+}
+.content2{
+  min-height: 150px;
+  background-color: gold; 
+  width: 40%;
+  float: right;
+ text-align: center;
+
+}
+.blog2{
+background-color: yellowgreen;
+min-height: 150px;
+width: 60%;
+float: left;
+text-align: center;
+}
+
+
+.container2{
+
+  overflow: hidden;
+}
+.single2{
+   width: 33.33%;   
+  min-height: 200px;
+  float: left;
+text-align: center;
+}
+.red2{
+text-align: center;
+ background-color: cyan;
+
+}
+.yellow2{
+text-align: center;
+background-color: red;
+ 
+}
+.cyan2{
+  
+  background-color: brown;
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer2{
+
+ text-align: center;
+  min-height: 300px;
+  background-color: chocolate;
+
+}
+
+
+
+
+.a{
+
+  font-size: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
